@@ -1,4 +1,4 @@
-# Predictive-Analytics-for-Customer-Retention-in-Bank-using-Power-BI
+# Predictive Analytics for Customer Retention in Bank using PowerBI
 
 📌 Overview
 
